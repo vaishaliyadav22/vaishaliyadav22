@@ -11,7 +11,7 @@
 - Automating data reports with SQL
 
 I am looking forward to collaborate on data analysis project.
-let's connect: [Contact to](mailto:@rate.yadav@gmail.com)
+let's connect: @rate.yadav@gmail.com
 
 Always curious, Always learning, Always growing.
 <!--
